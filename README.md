@@ -74,10 +74,10 @@ Contributions are always welcome!
 
 ## Containers
 
-- [ ] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
-- [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
-- [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
-- [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
+- [x] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
+- [x] [Containers Patterns](https://l0rd.github.io/containerspatterns)
+- [x] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
+- [x] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
 
 ## Kubernetes
 
@@ -99,9 +99,9 @@ Contributions are always welcome!
 
 ## Infrastructure as code / Configuration management
 
-- [ ] [Terraform](https://learn.hashicorp.com/terraform)
+- [x] [Terraform](https://learn.hashicorp.com/terraform)
 - [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
-- [ ] [Ansible](https://github.com/leucos/ansible-tuto)
+- [x] [Ansible](https://github.com/leucos/ansible-tuto)
 - [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
 - [ ] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
 - [ ] [Terraform Roadmap](https://roadmap.sh/terraform)
